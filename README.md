@@ -5,7 +5,7 @@
 
 ---
 
-## My favorite sport is baseball and I play for my school.
+## My favorite sport is football and I play for my school .
 
 * Baseball
   * Baseballs
@@ -16,13 +16,13 @@
 ---
 
 ## My schedule
-1. **Software Engineering Program**
+1. **SEP**
 2. **Global History**
-3. **Spanish**
-4. **Weight Training**
+3. **Spanish 3**
+4. **Gym**
 5. **Chemistry**
 6. **Lunch**
-7. **English**
+7. **ELA**
 8. **Algebra 2**
 
 ## [My Portfolio](https://adamk9516.github.io/projects/movie-webpage.html)
